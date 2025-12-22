@@ -5,7 +5,6 @@ class Solution {
             sum = sum * 10 + x % 10;
             x /= 10;
         }
-        if(sum == y) return true;
-        else return false;
+        return sum == y;
     }
 }
