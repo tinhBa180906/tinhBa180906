@@ -1,1 +1,1 @@
-<h2>two-sum Notes</h2><hr>[ Time taken: 3 hrs 5 m 19 s ]
+<h2>two-sum Notes</h2><hr>[ Time taken: 20m 33s ]
