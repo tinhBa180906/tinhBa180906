@@ -3,28 +3,22 @@
   
   <h1>📘 Kho Lưu Trữ LeetCode Solutions</h1>
   
-  <p><i>Hành trình rèn luyện Cấu trúc dữ liệu và Giải thuật (Data Structures & Algorithms)</i></p>
+  <p><i>Hành trình rèn luyện Cấu trúc dữ liệu và Giải thuật</i></p>
 
   [![Sync by LeetSync](https://img.shields.io/badge/Synced_via-LeetSync-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd)
 </div>
 
 ---
 
-## 📊 Thống kê tiến độ
+## 📊 Thống kê tiến độ (Cập nhật tự động)
 
-> **Tổng số bài đã giải:** **42** 🏆
-
-| Phân loại | Số lượng | Mức độ |
-| :---: | :---: | :--- |
-| ✅ **Easy** | `35` | <img src="https://img.shields.io/badge/-Dễ-2bbf64?style=flat-square" alt="Easy"> |
-| ⚠️ **Medium** | `5` | <img src="https://img.shields.io/badge/-Trung_Bình-ffc01e?style=flat-square" alt="Medium"> |
-| 🔥 **Hard** | `2` | <img src="https://img.shields.io/badge/-Khó-ff375f?style=flat-square" alt="Hard"> |
+<div align="center">
+  <a href="https://leetcode.com/u/Tinhba186/">
+    <img src="https://leetcard.jacoblin.cool/Tinhba186?theme=dark&font=Nunito&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</div>
 
 ---
 
 ## 🚀 Giới thiệu
-Repository này lưu trữ các lời giải của mình cho các bài toán trên LeetCode. 
-Mọi đoạn code (bao gồm Java, C++,...) đều được đẩy tự động từ trình duyệt lên GitHub thông qua tiện ích **LeetSync**, giúp tiết kiệm thời gian và quản lý tiến trình học tập hiệu quả.
-
----
-*Cập nhật tự động bởi tiện ích [LeetSync](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd).* 🤖
+Repository này lưu trữ các lời giải của mình cho các bài toán trên LeetCode. Mọi đoạn code được đẩy tự động từ trình duyệt lên GitHub thông qua tiện ích **LeetSync**.
