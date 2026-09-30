@@ -21,4 +21,3 @@
 
 ##  Giới thiệu
 Repository này lưu trữ các lời giải của mình cho các bài toán trên LeetCode. Mọi đoạn code được đẩy tự động từ trình duyệt lên GitHub thông qua tiện ích **LeetSync**.
-Tinhba18092006
