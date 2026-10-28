@@ -16,7 +16,7 @@ public class Solution {
             ListNode run = headB;
             while(run != null) {
                 if(headA == run) return run;
-                if(headA.next == run.next) return headA.next;
+               // if(headA.next == run.next) return headA.next;
                 run = run.next;
             }
             headA = headA.next;
